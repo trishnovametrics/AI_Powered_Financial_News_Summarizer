@@ -45,7 +45,6 @@ Python, LangChain, LangGraph, Groq (Llama 3.3 70B), yfinance, Google News RSS, S
 ├── config.py          # LLM and settings
 ├── test_cases.py      # Edge-case tests
 ├── requirements.txt
-└── .env.example
 ```
 
 ## Setup
