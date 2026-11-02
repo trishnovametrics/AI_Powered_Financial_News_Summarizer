@@ -1,0 +1,7 @@
+langchain-core
+langchain-groq
+langgraph
+streamlit
+yfinance
+feedparser
+python-dotenv
